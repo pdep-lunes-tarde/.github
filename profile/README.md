@@ -12,7 +12,7 @@ Página donde esta el [cronograma del curso y las notas](https://www.pdep.com.ar
 
 [Guía de lenguajes](https://docs.google.com/document/u/1/d/e/2PACX-1vTlLkakSbp6ubcIq00PU4-Z96tg8CUSc8bO793_uftmiGjfkSn7Ug-F_y0-ieIWG6aWfuoHLJrRL8Fd/pub), tiene varias funciones útiles que vamos a usar durante la materia, para que no se las tengan que acordar
 
-[Guía de git](https://docs.google.com/document/d/147cqUY86wWVoJ86Ce0NoX1R78CwoCOGZtF7RugUvzFg/edit#heading=h.pfzudah6sze2) que pueden usar como referencia
+[Guía de git](https://docs.google.com/document/d/e/2PACX-1vRSEtfITqU5RbbHWAXrlVzRk72pMNm70Bfv0tzQNjRegBAx87laTuY4OkwUkb-YZXUPN0e0hP1Zly8j/pub) que pueden usar como referencia
 
 
 <!--
