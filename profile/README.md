@@ -1,9 +1,9 @@
 ## Paradigmas de Programación - Lunes Tarde
 
 ### Links útiles
-[Bitácora de la cursada](https://github.com/pdep-lunes-tarde/2024-clases)
+[Bitácora de la cursada](https://github.com/pdep-lunes-tarde/2025-clases)
 
-[Carpeta compartida del drive con diapositivas](https://drive.google.com/drive/folders/1XDGUFNW0oXzkUHLZrokYgV8oTn1DYlrQ?usp=sharing)
+[Carpeta compartida del drive con diapositivas](https://drive.google.com/drive/folders/10W8GwDZGjTm-R89N6v2ecrBIwsK6ZG7Z?usp=sharing)
 
 [Wiki de Uqbar](https://wiki.uqbar.org/) organización compuesta por docentes de sistemas de varias facultades, con bastante contenido y definiciones que vemos en la materia
 
